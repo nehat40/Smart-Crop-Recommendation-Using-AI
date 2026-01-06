@@ -68,8 +68,6 @@ Model training: split the dataset into training and testing sets.
 
 Model evaluation: measured accuracy, precision, recall, and confusion matrix.
 
-Model deployment: used a simple user interface or notebook input form to predict the crop.
-
 The Random Forest Classifier performed best due to its robustness and ability to handle diverse agricultural conditions.
 
 Model Performance:
